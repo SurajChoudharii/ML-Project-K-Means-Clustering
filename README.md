@@ -104,7 +104,3 @@ The dataset `EastWestAirlines.csv` contains frequent flier data, with features l
 ### 🧠 Conclusion
 
 This project demonstrates how clustering techniques can be used to uncover hidden patterns in customer behavior, enabling more personalized and profitable airline services.
-
----
-
-Would you like me to export this as a real `README.md` file and attach it for download?
